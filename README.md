@@ -23,4 +23,6 @@ Learning git + github
 
 - Creating and editing Markdown files using Markdown syntax
 
-- git staging, git status, git add ., git commit, 
+- git staging, git status, git add ., git commit
+
+- git restore to revert back to last commit 
