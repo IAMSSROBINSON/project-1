@@ -25,4 +25,4 @@ Learning git + github
 
 - git staging, git status, git add ., git commit
 
-- git restore to revert back to last commit 
+- git restore . to revert back to last commit 
